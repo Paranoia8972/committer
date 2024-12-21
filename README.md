@@ -1,6 +1,6 @@
-# Commiter CLI
+# Committer CLI
 
-Commiter is a command-line interface (CLI) tool written in Go that fetches staged changes from a Git repository and generates commit messages using GitHub models.
+Committer is a command-line interface (CLI) tool written in Go that fetches staged changes from a Git repository and generates commit messages using GitHub models.
 
 ## Features
 
@@ -9,12 +9,12 @@ Commiter is a command-line interface (CLI) tool written in Go that fetches stage
 
 ## Installation
 
-To install Commiter, clone the repository and build the project:
+To install Committer, clone the repository and build the project:
 
 ```bash
-git clone https://github.com/Paranoia8972/commiter.git
-cd commiter
-go build -o commiter ./cmd
+git clone https://github.com/Paranoia8972/committer.git
+cd committer
+go build -o committer ./cmd
 ```
 
 ## Usage
@@ -22,7 +22,7 @@ go build -o commiter ./cmd
 After building the project, you can use the CLI tool as follows:
 
 ```bash
-./commiter
+./committer
 ```
 
 This command will fetch the staged changes and generate a commit message.
