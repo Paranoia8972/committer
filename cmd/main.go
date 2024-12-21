@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/Paranoia8972/commiter/internal"
+	"github.com/Paranoia8972/committer/internal"
 )
 
 func main() {
